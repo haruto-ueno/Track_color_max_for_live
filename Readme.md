@@ -11,5 +11,4 @@ Max for liveデバイスです。<br>
 [動作環境]<br>
 Max 9.
 Ableton Live 12 suite
-
-(assets/ui.png)
+![デモ画面](assets/ui.png)
